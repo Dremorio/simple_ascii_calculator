@@ -6,7 +6,7 @@ ASCII Calculator is a Python application that performs basic arithmetic operatio
 1. Clone the repository:
 
 ```bash
-https://github.com/Dremorio/simple_ascii_calculator
+git clone https://github.com/Dremorio/simple_ascii_calculator
 ```
 
 
