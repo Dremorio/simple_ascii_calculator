@@ -13,7 +13,7 @@ git clone https://github.com/Dremorio/simple_ascii_calculator
 2. Navigate to the project directory:
 
 ```bash
-cd ascii_calculator
+cd simple_ascii_calculator
 ```
 
 
